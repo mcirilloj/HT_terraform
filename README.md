@@ -7,7 +7,7 @@ git init  -> Se hace 1 sola vez al comienzo de todo para que git comience a segu
 git add <archivo>  -> Le indica a git que haga seguimiento de todos o algunos archivos de nuestro proyecto
 						.  -> Agregar todos los archivos al staging
 
-git commit -m "<nombre commit>" -> Traslada el archivo de staging al repositorio local
+git commit -m "<-nombre commit->" -> Traslada el archivo de staging al repositorio local
 
 git commit -am "<nombre commit>"  -> Hace un add de todo el proyecto y genera un commit en el mismo comando
 
