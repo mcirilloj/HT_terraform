@@ -1,4 +1,4 @@
-# Hackathon_Terraform asda
+# Hackathon_Terraform
 
 ------------ COMANDOS GIT ----------------
 
