@@ -49,7 +49,7 @@ module "RGroups" {
   tupla_rgname_lc = var.tupla_rgname_lc
 }
 
-//Log Analytics test
+//Log Analytics
 module "LogAnalitycs" {
   source                = "./Modules/LogAnalitycs"
   name                  = "mshack"
