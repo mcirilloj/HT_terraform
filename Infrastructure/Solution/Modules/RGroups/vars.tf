@@ -1,4 +1,2 @@
 
-variable tupla_rgname_lc {
-    //type = map(any)/
-}
+variable tupla_rgname_lc {}
